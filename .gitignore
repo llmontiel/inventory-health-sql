@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# generated DBs are reproducible from build_db.py
+*.db
